@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LaisTakara
-- 👀 I’m interested in QA, Python
+- 👀 I’m interested in QAE, Cypress
 - 🌱 I’m currently learning Python, Cypress and JavaScript
 - 💞️ I’m looking to collaborate on test automation
 - 📫 How to reach me: laisflorianor@gmail.com
